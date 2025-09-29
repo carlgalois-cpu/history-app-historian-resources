@@ -1,0 +1,4 @@
+cd ~/historia-maestra
+git add .
+git commit -m "Añadí la Revolución Industrial a la cronología"
+git push
